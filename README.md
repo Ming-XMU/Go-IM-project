@@ -13,6 +13,13 @@ user：两个go程，一个从channel中读取消息，一个负责从客户端�
 
 架构图：项目架构.pdf
 
-
+分析：https://blog.csdn.net/qq_43351888/article/details/124660593?spm=1001.2014.3001.5501
+其他相关链接：
+Golang 基础学习：https://blog.csdn.net/qq_43351888/article/details/124624663?spm=1001.2014.3001.5501
+                https://blog.csdn.net/qq_43351888/article/details/124624663?spm=1001.2014.3001.5501
+                https://blog.csdn.net/qq_43351888/article/details/124628449?spm=1001.2014.3001.5501
+                https://blog.csdn.net/qq_43351888/article/details/124628931?spm=1001.2014.3001.5501
+                https://blog.csdn.net/qq_43351888/article/details/124644038?spm=1001.2014.3001.5501
+Golang:练手应用：https://blog.csdn.net/qq_43351888/article/details/124647429?spm=1001.2014.3001.5501
 
 
